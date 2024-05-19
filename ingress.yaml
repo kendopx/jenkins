@@ -19,5 +19,5 @@ spec:
             service:
               name: jenkins
               port:
-                number: 1433
+                number: 8080
 
